@@ -4,12 +4,9 @@
 
 url: http://henziger.se
 title: henziger.se
-email: eric@dhenziger.com
+email: eric@henziger.se
 author: Eric Henziger
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+description: Eric Henziger's landing page.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
