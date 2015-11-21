@@ -1,5 +1,9 @@
-# Landing Page Jekyll theme
+# A Jekyll based Landing Page
 
-Theme based on [landing-page bootstrap theme](http://startbootstrap.com/templates/landing-page/)
+This repo is solely for my personal [website](http://henziger.se).
 
-Jekyll adaption by [Shane Weng](https://github.com/swcool/landing-page-theme)
+Photos from [Death To The Stock Photo](http://deathtothestockphoto.com/).
+
+Theme based on [landing-page bootstrap theme](http://startbootstrap.com/templates/landing-page/).
+
+Jekyll adaption by [Shane Weng](https://github.com/swcool/landing-page-theme).
