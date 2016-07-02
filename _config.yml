@@ -6,9 +6,32 @@ url: http://henziger.se
 title: henziger.se
 email: eric@henziger.se
 author: Eric Henziger
-description: Eric Henzigers startsida.
-copyright: 'Copyright &copy; 2016 Your Name. All Rights Reserved.'
+description:
+ sv: Eric Henzigers startsida.
+ en: Eric Henziger's landing page.
+copyright: 'Copyright &copy; 2016 Eric Henziger. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+# Translations & Language #
+# ----------------------- #
+t:
+  sv:
+    home: "Hem"
+    proj: "Projekt"
+    contact: "Kontakt"
+    about: "Om henziger.se"
+    keep_in_touch: "Kontakta mig"
+  en:
+    home: "Home"
+    proj: "Projects"
+    contact: "Contact"
+    about: "About"
+    keep_in_touch: "Keep in touch"
+
+index:
+  sv:
+  en: en.html
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -31,3 +54,10 @@ social:
     url: https://se.linkedin.com/in/erichenziger
   - title: wordpress
     url: http://henziger.com
+  - title: facebook
+    url: https://www.facebook.com/eric.henziger
+  - title: instagram
+    url: https://www.instagram.com/mjauvoff/
+  - title: envelope
+    url: mailto:eric@henziger.se
+    descr: E-post

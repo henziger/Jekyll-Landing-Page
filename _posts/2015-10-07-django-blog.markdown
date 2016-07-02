@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: django
 img: dog.png
 category: Projects
 title: Django Blog

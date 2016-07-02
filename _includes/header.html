@@ -15,16 +15,20 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">  
                 <li>
-                    <a class="page-scroll" href="#projects">Projects</a>
+                    <a class="page-scroll" href="#projects">{{ site.t[page.lang].proj }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
+                    <a class="page-scroll" href="#contact">{{ site.t[page.lang].contact }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll" href="#about">{{ site.t[page.lang].about }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/sv/"><span class="lang-link lang-swe">Svenska</span></a>
+                    {% if page.lang == "en" %}
+                    <a class="page-scroll" href="/"><span class="lang-link lang-sv">Svenska</span></a>
+                    {% elsif page.lang == "sv" %}
+                    <a class="page-scroll" href="en.html"><span class="lang-link lang-en">English</span></a>
+                    {% endif %}
                 </li>
             </ul>
         </div>
@@ -47,8 +51,9 @@
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
 							{% for social in site.social %}
+
 							<li>
-								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
+								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.descr | default: social.title }}</span></a>
 							</li>
 							{% endfor %}
 						</ul>
