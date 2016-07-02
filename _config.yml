@@ -6,7 +6,7 @@ url: http://henziger.se
 title: henziger.se
 email: eric@henziger.se
 author: Eric Henziger
-description: Eric Henziger's landing page.
+description: Eric Henzigers startsida.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,3 +27,5 @@ social:
     url: https://github.com/henziger
   - title: linkedin
     url: https://se.linkedin.com/in/erichenziger
+  - title: wordpress
+    url: http://henziger.com
