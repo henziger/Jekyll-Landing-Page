@@ -60,4 +60,6 @@ social:
     url: https://www.instagram.com/mjauvoff/
   - title: envelope
     url: mailto:eric@henziger.se
-    descr: E-post
+    descr:
+      sv: E-post
+      en: Email me
