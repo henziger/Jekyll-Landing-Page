@@ -1,0 +1,12 @@
+---
+layout: default
+lang: sv
+ref: knekt
+img: ride.jpg
+category: Projects
+title: Knekt
+description: |
+---
+Vårterminen 2016 utvecklade jag tillsammans med min projektgrupp webbappen Knekt som en del i vårt kandidatprojekt.
+Knekt är en interaktiv webbapp som är tänk att användas för utlärning av historiskt viktiga metoder för kryptering.
+Om du vill prova knäcka lite krypterade meddelanden är du varmt välkommer att testa [Knekt](/knekt/).
