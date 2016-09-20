@@ -54,6 +54,9 @@ social:
     url: https://se.linkedin.com/in/erichenziger
   - title: wordpress
     url: http://henziger.com
+    descr:
+      sv: Blogg
+      en: Blog
   - title: facebook
     url: https://www.facebook.com/eric.henziger
   - title: instagram
