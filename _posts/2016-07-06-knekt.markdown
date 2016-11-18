@@ -9,4 +9,5 @@ description: |
 ---
 Vårterminen 2016 utvecklade jag tillsammans med min projektgrupp webbappen Knekt som en del i vårt kandidatprojekt.
 Knekt är en interaktiv webbapp som är tänk att användas för utlärning av historiskt viktiga metoder för kryptering.
-Om du vill prova knäcka lite krypterade meddelanden är du varmt välkommer att testa [Knekt](/knekt/).
+Om du vill prova knäcka lite krypterade meddelanden är du varmt välkommen att testa [Knekt](/knekt/). Rapporten för
+projektet finner du [här](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-130788).
