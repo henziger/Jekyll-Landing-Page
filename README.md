@@ -1,6 +1,6 @@
 # A Jekyll based Landing Page
 
-This repo is solely for my personal [website](http://henziger.se).
+This repo is solely for my personal [website](https://henziger.se).
 
 Photos from [Death To The Stock Photo](http://deathtothestockphoto.com/).
 
