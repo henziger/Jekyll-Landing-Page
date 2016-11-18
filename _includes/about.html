@@ -6,6 +6,7 @@
             {% if page.lang == "en" %}
               <h2>About This Site</h2>
               <br/>
+                <p>{{site.description["en"]}}</p>
                 <p>This site was built using <a href="http://startbootstrap.com/template-overviews/landing-page/">Landing-Page.</a></p>
                 <p>The Jekyll version is brought to you by <a href="https://github.com/swcool">Shane Weng</a>.</p>
                 <p>This theme features stock photos by <a href="http://join.deathtothestockphoto.com//">Death to the Stock Photo</a>.</p>
@@ -15,6 +16,7 @@
             {% elsif page.lang == "sv" %}
                 <h2>Om henziger.se</h2>
                 <br/>
+                <p>{{site.description["sv"]}}</p>
                 <p>Denna sida bygger på temat <a href="http://startbootstrap.com/template-overviews/landing-page/">Landing-Page.</a></p>
                 <p>Jekyll-versionen av temat skapades av <a href="https://github.com/swcool">Shane Weng</a>.</p>
                 <p>Bilder på sidan från <a href="http://join.deathtothestockphoto.com//">Death to the Stock Photo</a>.</p>
