@@ -2,15 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://henziger.se
+url: https://henziger.se
 title: Eric Henziger
 email: eric@henziger.se
 author: Eric Henziger
 description:
  sv: Eric Henzigers startsida.
  en: Eric Henziger's landing page.
-copyright: 'Copyright &copy; 2016 Eric Henziger. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2017 Eric Henziger. All Rights Reserved.'
 
 # ----------------------- #
 # Translations & Language #
