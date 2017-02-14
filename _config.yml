@@ -38,7 +38,8 @@ index:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
+exclude: [scripts, vendor]
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -52,7 +53,7 @@ social:
   - title: linkedin
     url: https://se.linkedin.com/in/erichenziger
   - title: wordpress
-    url: http://henziger.com
+    url: https://henziger.com
     descr:
       sv: Blogg
       en: Blog
