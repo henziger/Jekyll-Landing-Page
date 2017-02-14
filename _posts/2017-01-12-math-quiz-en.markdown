@@ -3,6 +3,7 @@ layout: default
 lang: en
 ref: math-quiz
 img: math.jpg
+img_alt: "Math studies by the laptop"
 category: Projects
 title: math-quiz
 description: |

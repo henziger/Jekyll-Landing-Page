@@ -3,6 +3,7 @@ layout: default
 lang: sv
 ref: math-quiz
 img: math.jpg
+img_alt: "Matematik-studier vid laptopen"
 category: Projects
 title: math-quiz
 description: |

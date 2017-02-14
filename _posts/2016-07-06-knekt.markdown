@@ -3,6 +3,7 @@ layout: default
 lang: sv
 ref: knekt
 img: ride.jpg
+img_alt: "Motorcyklist glider ner för gatan"
 category: Projects
 title: Knekt
 description: |

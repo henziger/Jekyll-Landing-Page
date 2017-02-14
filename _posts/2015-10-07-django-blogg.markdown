@@ -3,6 +3,7 @@ layout: default
 lang: sv
 ref: django
 img: dog.png
+img_alt: "En gosig hund"
 category: Projects
 title: Min Djangoblogg
 description: |

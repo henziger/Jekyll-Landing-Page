@@ -3,6 +3,7 @@ layout: default
 lang: en
 ref: django
 img: dog.png
+img_alt: "A cozy dog"
 category: Projects
 title: Django Blog
 description: |

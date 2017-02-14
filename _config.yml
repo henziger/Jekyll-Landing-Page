@@ -39,7 +39,7 @@ index:
 # Build settings
 markdown: kramdown
 permalink: none
-exclude: [scripts, vendor]
+exclude: [scripts, vendor, README.md, Gemfile]
 
 # ----------------------- #
 #   3rd Party Settings    #

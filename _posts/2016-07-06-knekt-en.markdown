@@ -3,6 +3,7 @@ layout: default
 lang: en
 ref: knekt
 img: ride.jpg
+img_alt: "Motorbiker zooming down the road"
 category: Projects
 title: Knekt
 description: |
