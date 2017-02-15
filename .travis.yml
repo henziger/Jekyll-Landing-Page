@@ -22,6 +22,6 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site travis@henziger.se:/var/www/landing-page
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site/ travis@henziger.se:/var/www/landing-page
   on:
     branch: master
