@@ -1,0 +1,14 @@
+---
+layout: default
+lang: fr
+ref: knekt
+img: ride.jpg
+category: Projects
+title: Knekt
+description: |
+---
+Knekt a été développé par un groupe d'étudiants, moi compris, à l'Université de Linköping.
+Notre projet de baccalauréat au printemps 2016. Knekt est une application Web interactive.
+Destiné à être utilisé comme aide pour l'enseignement des méthodes historiques de cryptage et de leurs faiblesses.
+Si vous souhaitez faire du crypto cracking, n'hésitez pas à essayer [Knekt](/ knekt /).
+Le rapport du projet se trouve [ici](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-130788).

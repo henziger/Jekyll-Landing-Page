@@ -6,31 +6,50 @@ url: https://henziger.se
 title: Eric Henziger
 email: eric@henziger.se
 author: Eric Henziger
-description:
- sv: Eric Henzigers startsida.
- en: Eric Henziger's landing page.
 copyright: 'Copyright &copy; 2017 Eric Henziger. All Rights Reserved.'
 
 # ----------------------- #
 # Translations & Language #
 # ----------------------- #
-t:
+langs:
   sv:
-    home: "Hem"
-    proj: "Projekt"
-    contact: "Kontakt"
     about: "Om henziger.se"
+    contact: "Kontakt"
+    description: "Eric Henzigers startsida."
+    flags:
+      - img: "sv.png"
+        name: "Svenska flaggan"
+    home: "Hem"
+    index: ""
     keep_in_touch: "Kontakta mig"
+    name: "Svenska"
+    proj: "Projekt"
   en:
-    home: "Home"
-    proj: "Projects"
-    contact: "Contact"
     about: "About"
+    contact: "Contact"
+    description: "Eric Henziger's landing page."
+    flags:
+      - img: "en-gb.png"
+        name: "Union Jack"
+      - img: "en-us.png"
+        name: "Stars and Stripes"
+    home: "Home"
+    index: "en.html"
     keep_in_touch: "Keep in touch"
-
-index:
-  sv:
-  en: en.html
+    name: "English"
+    proj: "Projects"
+  fr:
+    about: "À propos"
+    contact: "Contact"
+    description: "Page de renvoi de Eric Henziger."
+    flags:
+      - img: "fr.png"
+        name: "Drapeau Tricolore"
+    home: "Accueil"
+    index: "fr.html"
+    keep_in_touch: "Reste en contact avec moi"
+    name: "Français"
+    proj: "Projets"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -57,6 +76,7 @@ social:
     descr:
       sv: Blogg
       en: Blog
+      fr: Blog
   - title: facebook
     url: https://www.facebook.com/eric.henziger
   - title: instagram
@@ -66,3 +86,4 @@ social:
     descr:
       sv: E-post
       en: Email me
+      fr: Email

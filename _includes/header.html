@@ -9,26 +9,39 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#home">{{site.description[page.lang]}}</a>
+            <a class="navbar-brand page-scroll" href="#home">{{ site.langs[page.lang].description}}</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">  
                 <li>
-                    <a class="page-scroll" href="#projects">{{ site.t[page.lang].proj }}</a>
+                    <a class="page-scroll" href="#projects">{{ site.langs[page.lang].proj }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">{{ site.t[page.lang].contact }}</a>
+                    <a class="page-scroll" href="#contact">{{ site.langs[page.lang].contact }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">{{ site.t[page.lang].about }}</a>
+                    <a class="page-scroll" href="#about">{{ site.langs[page.lang].about }}</a>
                 </li>
-                <li>
-                    {% if page.lang == "en" %}
-                    <a class="page-scroll" href="/"><span class="lang-link lang-sv">Svenska</span></a>
-                    {% elsif page.lang == "sv" %}
-                    <a class="page-scroll" href="en.html"><span class="lang-link lang-en">English</span></a>
-                    {% endif %}
+                <li class="dropdown">
+                    <a id="lang-dropdown" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+                        {{ site.langs[page.lang].name }}
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="lang-dropdown">
+                        {% for lang in site.langs %}
+                        {% if lang[0] != page.lang %}
+                        <li>
+                            <a class="dropdown-item" role="menuitem" href="/{{ lang[1].index }}">
+                                {{ lang[1].name }}
+                                {% for flag in lang[1].flags %}
+                                    <img class="flags" src="../img/{{ flag.img }}" alt="{{ flag.name }}">
+                                {% endfor %}
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
                 </li>
             </ul>
         </div>
