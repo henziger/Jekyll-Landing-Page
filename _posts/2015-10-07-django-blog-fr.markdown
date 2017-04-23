@@ -3,6 +3,7 @@ layout: default
 lang: fr
 ref: django
 img: dog.png
+img_alt: "Un chien confortable"
 category: Projects
 title: Django Blog
 description: |

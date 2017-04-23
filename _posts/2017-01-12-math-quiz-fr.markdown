@@ -3,6 +3,7 @@ layout: default
 lang: fr
 ref: math-quiz
 img: math.jpg
+img_alt: "Études mathématiques par ordinateur portable"
 category: Projects
 title: math-quiz
 description: |

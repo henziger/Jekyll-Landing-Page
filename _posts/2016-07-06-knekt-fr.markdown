@@ -3,6 +3,7 @@ layout: default
 lang: fr
 ref: knekt
 img: ride.jpg
+img_alt: "Motocycliste sur la route"
 category: Projects
 title: Knekt
 description: |
