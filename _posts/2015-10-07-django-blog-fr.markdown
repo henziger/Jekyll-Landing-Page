@@ -9,5 +9,5 @@ title: Django Blog
 description: |
 ---
 Une fois, j'ai réussi à créer un blog en utilisant Django, un framework écrit en Python.
-Vous pouvez vérifier [ici](/ django /).
+Vous pouvez vérifier [ici](/django/).
 Si vous souhaitez créer un blog Django vous-même, consultez [Django Girls](https://djangogirls.org/).
