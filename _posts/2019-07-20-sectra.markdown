@@ -1,0 +1,11 @@
+---
+layout: default
+lang: sv
+ref: sectra
+img: sectra.jpg
+img_alt: "Sectras huvudkontor i Linköping"
+category: Projects
+title: Sectra
+description: |
+---
+Jag arbetar för närvarande på Sectra som mjukvaruutvecklare. Sectra levererar IT-system för hantering av medicinska bilder och patientinformation inom sjukvården. För mer info om Sectra, besök deras [hemsida](https://sectra.com/).

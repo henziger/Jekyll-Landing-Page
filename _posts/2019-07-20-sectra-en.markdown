@@ -1,0 +1,11 @@
+---
+layout: default
+lang: sv
+ref: sectra
+img: sectra.jpg
+img_alt: "Sectra headquarters in Linköping"
+category: Projects
+title: Sectra
+description: |
+---
+I'm currently working for Sectra as a Software Engineer. Sectra delivers IT systems for managing medical images and patient information in healthcare organizations. For more information about Sectra, visit their [home page](https://sectra.com/).
