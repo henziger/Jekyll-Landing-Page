@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: sv
+lang: en
 ref: sectra
 img: sectra.jpg
 img_alt: "Sectra headquarters in Linköping"
