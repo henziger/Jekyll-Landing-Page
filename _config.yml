@@ -24,6 +24,7 @@ langs:
     keep_in_touch: "Kontakta mig"
     name: "Svenska"
     proj: "Projekt"
+    mail: "E-post"
   en:
     about: "About"
     contact: "Contact"
@@ -38,6 +39,7 @@ langs:
     keep_in_touch: "Keep in touch"
     name: "English"
     proj: "Projects"
+    mail: "Email me"
   fr:
     about: "À propos"
     contact: "Contact"
@@ -50,6 +52,7 @@ langs:
     keep_in_touch: "Reste en contact avec moi"
     name: "Français"
     proj: "Projets"
+    mail: "Email"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -65,12 +68,12 @@ exclude: [scripts, vendor, README.md, Gemfile]
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/henziger
-  - title: github
-    url: https://github.com/henziger
   - title: linkedin
     url: https://se.linkedin.com/in/erichenziger
+  - title: github
+    url: https://github.com/henziger
+  - title: goodreads
+    url: https://goodreads.com/henziger
   - title: wordpress
     url: https://henziger.com
     descr:
@@ -81,9 +84,5 @@ social:
     url: https://www.facebook.com/eric.henziger
   - title: instagram
     url: https://www.instagram.com/erichenziger/
-  - title: envelope
-    url: mailto:eric@henziger.se
-    descr:
-      sv: E-post
-      en: Email me
-      fr: Email
+  - title: twitter
+    url: https://twitter.com/henziger

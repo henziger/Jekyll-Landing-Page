@@ -57,6 +57,10 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+ul.intro-social-buttons > li {
+    margin-top: 10px;
+ }
+
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
@@ -68,7 +72,7 @@ h6 {
 
     ul.intro-social-buttons > li {
         display: block;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         padding: 0;
     }
 
@@ -131,6 +135,10 @@ h6 {
     margin-top: 0;
 }
 
+ul.banner-social-buttons > li {
+    margin-top: 10px;
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
@@ -145,9 +153,16 @@ h6 {
         font-size: 3em;
     }
 
+    ul.banner-social-buttons {
+        text-align: center;
+        float: none;
+        padding-left: 0;
+        margin-left: -5px;
+    }
+
     ul.banner-social-buttons > li {
         display: block;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         padding: 0;
     }
 
