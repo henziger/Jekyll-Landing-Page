@@ -3,9 +3,17 @@ layout: default
 lang: sv
 ref: cloud
 img: cloud.jpg
-img_alt: "Ett rull-moln vid ett kraftigt åskoväder i Racine, Wisconsin"
+img_alt:
+  en: "A roll cloud associated with a severe thunderstorm over Racine, Wisconsin, United States"
+  fr: "Un arcus en rouleau à Racine (États-Unis)."
+  sv: "Ett rull-moln vid ett kraftigt åskoväder i Racine, Wisconsin"
 category: Projects
 title: The Cost of Confidentiality in Cloud Storage
-description: |
+description:
+  en: |
+    I finished my master's thesis in June, 2018. You can read the thesis [here](https://www.diva-portal.org/smash/get/diva2:1222533/FULLTEXT01.pdf).
+  fr: |
+    J'ai terminé ma thèse de maîtrise en juin 2018. Vous pouvez lire la thèse [ici](https://www.diva-portal.org/smash/get/diva2:1222533/FULLTEXT01.pdf).
+  sv: |
+    Mitt examensarbete blev färdigt sommaren 2018. Rapporten finns att läsa [här](https://www.diva-portal.org/smash/get/diva2:1222533/FULLTEXT01.pdf).
 ---
-Mitt examensarbete blev färdigt sommaren 2018. Rapporten finns att läsa [här](https://www.diva-portal.org/smash/get/diva2:1222533/FULLTEXT01.pdf).
