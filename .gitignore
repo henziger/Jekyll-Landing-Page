@@ -2,3 +2,5 @@ _site
 .idea/
 .directory
 fontawesome-free-5.10.2-web
+Gemfile.lock
+.jekyll-cache
