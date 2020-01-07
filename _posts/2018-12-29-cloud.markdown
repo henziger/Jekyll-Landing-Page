@@ -1,13 +1,10 @@
 ---
-layout: default
-lang: sv
 ref: cloud
 img: cloud.jpg
 img_alt:
   en: "A roll cloud associated with a severe thunderstorm over Racine, Wisconsin, United States"
   fr: "Un arcus en rouleau à Racine (États-Unis)."
   sv: "Ett rull-moln vid ett kraftigt åskoväder i Racine, Wisconsin"
-category: Projects
 title: The Cost of Confidentiality in Cloud Storage
 description:
   en: |

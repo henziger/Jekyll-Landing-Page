@@ -31,8 +31,18 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg-lefty.jpg) no-repeat center center;
-    background-size: cover;
+}
+
+.webp .intro-header {
+    background: url(../img/intro-bg-lefty.webp) center center/cover no-repeat;
+}
+
+.no-webp .intro-header {
+    background: url(../img/intro-bg-lefty.jpg) center center/cover no-repeat;
+}
+
+.no-js .intro-header {
+    background: url(../img/intro-bg-lefty.jpg) center center/cover no-repeat;
 }
 
 .intro-message {
@@ -116,8 +126,18 @@ ul.intro-social-buttons > li {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+}
+
+.webp .banner {
+    background: url(../img/banner-bg.webp) center center/cover no-repeat;
+}
+
+.no-webp .banner {
+    background: url(../img/banner-bg.jpg) center center/cover no-repeat;
+}
+
+.no-js .banner {
+    background: url(../img/banner-bg.jpg) center center/cover no-repeat;
 }
 
 .banner h2 {

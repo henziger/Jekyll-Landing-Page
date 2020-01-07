@@ -1,13 +1,10 @@
 ---
-layout: default
-lang: sv
 ref: math-quiz
 img: math.jpg
 img_alt:
   en: "Math studies by the laptop"
   fr: "Études mathématiques par ordinateur portable"
   sv: "Matematik-studier vid laptopen"
-category: Projects
 title: math-quiz
 description:
   en: |

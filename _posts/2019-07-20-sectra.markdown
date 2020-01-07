@@ -1,12 +1,10 @@
 ---
-layout: default
 ref: sectra
 img: sectra.jpg
 img_alt:
   en: "Sectra headquarters in Linköping"
   fr: "Le siège de Sectra à Linköping"
   sv: "Sectras huvudkontor i Linköping"
-category: Projects
 title: Sectra
 description:
   en: |

@@ -1,5 +1,4 @@
 ---
-layout: default
 ref: django
 img: dog.png
 img_alt:

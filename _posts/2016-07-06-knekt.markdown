@@ -1,6 +1,4 @@
 ---
-layout: default
-lang: sv
 ref: knekt
 img: ride.jpg
 img_alt:
