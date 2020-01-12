@@ -16,7 +16,7 @@ description:
 
     Le premier article (["The Overhead of Confidentiality and Client-side Encryption in Cloud Storage Systems"](/papers/ucc19.pdf)) décrit les frais généraux associés à l'utilisation du chiffrement côté client. Le deuxième article (["Delta Encoding Overhead Analysis of Cloud Storage Systems using Client-side Encryption"](/papers/cloudcom19.pdf)) examine le plus gros problème identifié dans le premier article, en utilisant efficacement le codage différentiel avec le chiffrement côté client.
   sv: |
-    December 2019 publicerade Niklas Carlsson och jag två artiklar om klient-side kryptering i molnlagringstjänster i IEEE/ACM UCC 2019 och IEEE CloudCom 2019.
+    December 2019 publicerade Niklas Carlsson och jag två artiklar om klientside-kryptering i molnlagringstjänster i IEEE/ACM UCC 2019 och IEEE CloudCom 2019.
 
-    Den första artikeln (["The Overhead of Confidentiality and Client-side Encryption in Cloud Storage Systems"](/papers/ucc19.pdf)) karakteriserar kostnaderna vid användning av klient-side kryptering och var en av tre artiklar som nominerades till bästa artikel på IEEE/ACM UCC 2019. Den andra artikeln (["Delta Encoding Overhead Analysis of Cloud Storage Systems using Client-side Encryption"](/papers/cloudcom19.pdf)) undersöker det största problemet som identifierades i den första artikeln, att effektivt använda delta-synkronisering med klient-side kryptering.
+    Den första artikeln (["The Overhead of Confidentiality and Client-side Encryption in Cloud Storage Systems"](/papers/ucc19.pdf)) karakteriserar kostnaderna vid användning av klientside-kryptering och var en av tre artiklar som nominerades till bästa artikel på IEEE/ACM UCC 2019. Den andra artikeln (["Delta Encoding Overhead Analysis of Cloud Storage Systems using Client-side Encryption"](/papers/cloudcom19.pdf)) undersöker det största problemet som identifierades i den första artikeln, att effektivt använda delta-synkronisering med klientside-kryptering.
 ---
