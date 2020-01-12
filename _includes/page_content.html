@@ -2,8 +2,8 @@
     <!-- Page Content -->
     {% assign posts=site.posts %}
     {% for post in posts %}
-    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
+    {% assign odd = forloop.index | modulo: 2 %}
+    {% if odd == 1 %}
     <div class="content-section-a">
 
         <div class="container">
