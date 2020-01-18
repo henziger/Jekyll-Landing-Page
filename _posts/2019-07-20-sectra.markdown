@@ -4,6 +4,7 @@ img: sectra.jpg
 img_alt:
   en: "Sectra headquarters in Linköping"
   fr: "Le siège de Sectra à Linköping"
+  kr: "Sectra headquarters in Linköping"
   sv: "Sectras huvudkontor i Linköping"
 title: Sectra
 description:
@@ -13,6 +14,10 @@ description:
     healthcare organizations. For more information about Sectra, visit their [home page](https://sectra.com/).
   fr: |
     Je travaille actuellement pour Sectra en tant qu'ingénieur logiciel. Sectra fournit des systèmes   de gestion d'images médicales dans les soins de santé. Pour plus d'informations sur Sectra,   visitez leur [page d'accueil](https://sectra.com/).
+  kr: |
+    I'm currently working for Sectra as a Software Engineer.
+    Sectra delivers IT systems for managing medical images and patient information in
+    healthcare organizations. For more information about Sectra, visit their [home page](https://sectra.com/).
   sv: |
     Jag arbetar för närvarande på Sectra som mjukvaruutvecklare.
     Sectra levererar IT-system för hantering av medicinska bilder och patientinformation

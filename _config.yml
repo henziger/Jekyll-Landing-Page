@@ -53,6 +53,19 @@ langs:
     name: "Français"
     proj: "Projets"
     mail: "Email"
+  kr:
+    about: "About"
+    contact: "Contact"
+    description: "Eric Henziger's landing page."
+    flags:
+      - img: "kr.png"
+        name: "Taegukgi"
+    home: "Home"
+    index: "kr.html"
+    keep_in_touch: "Keep in touch"
+    name: "한국어"
+    proj: "Projects"
+    mail: "Email me"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -80,6 +93,7 @@ social:
       sv: Blogg
       en: Blog
       fr: Blog
+      kr: 블로그
   - title: facebook
     url: https://www.facebook.com/eric.henziger
   - title: instagram

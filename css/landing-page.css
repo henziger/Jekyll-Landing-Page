@@ -159,6 +159,11 @@ ul.banner-social-buttons > li {
     margin-top: 10px;
 }
 
+#about h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
