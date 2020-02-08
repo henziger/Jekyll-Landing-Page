@@ -83,10 +83,16 @@ exclude: [scripts, vendor, README.md, Gemfile]
 social:
   - title: linkedin
     url: https://se.linkedin.com/in/erichenziger
+    descr:
+      kr: 링크드인
   - title: github
     url: https://github.com/henziger
+    descr:
+      kr: 깃허브
   - title: goodreads
     url: https://goodreads.com/henziger
+    descr:
+      kr: 굿리즈
   - title: wordpress
     url: https://henziger.com
     descr:
@@ -96,7 +102,13 @@ social:
       kr: 블로그
   - title: facebook
     url: https://www.facebook.com/eric.henziger
+    descr:
+      kr: 페이스북
   - title: instagram
     url: https://www.instagram.com/erichenziger/
+    descr:
+      kr: 인스타그램
   - title: twitter
     url: https://twitter.com/henziger
+    descr:
+      kr: 트위터
