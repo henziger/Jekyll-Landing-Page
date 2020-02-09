@@ -15,12 +15,11 @@
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.description[page.lang] | markdownify }}</div>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                <div class="col-lg-5 offset-lg-2 col-sm-6">
                     <picture>
                         <source type="image/webp" srcset="img/projects/{{ post.img | split: '.' | first }}.webp">
                         <source type="image/{{ post.img | split: '.' | last }}" srcset="img/projects/{{ post.img }}">
-                        <img class="img-responsive" src="img/projects/{{ post.img }}"
-                            alt="{{ post.img_alt[page.lang] }}">
+                        <img class="img-fluid" src="img/projects/{{ post.img }}" alt="{{ post.img_alt[page.lang] }}">
                     </picture>
                 </div>
             </div>
@@ -37,18 +36,17 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <div class="col-lg-5 offset-lg-1 col-sm-6 order-2">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.description[page.lang] | markdownify }}</div>
                 </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                <div class="col-lg-5 col-sm-6 order-1">
                     <picture>
                         <source type="image/webp" srcset="img/projects/{{ post.img | split: '.' | first }}.webp">
                         <source type="image/{{ post.img | split: '.' | last }}" srcset="img/projects/{{ post.img }}">
-                        <img class="img-responsive" src="img/projects/{{ post.img }}"
-                            alt="{{ post.img_alt[page.lang] }}">
+                        <img class="img-fluid" src="img/projects/{{ post.img }}" alt="{{ post.img_alt[page.lang] }}">
                     </picture>
                 </div>
             </div>
