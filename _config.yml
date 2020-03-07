@@ -64,8 +64,8 @@ langs:
     index: "kr.html"
     keep_in_touch: "Keep in touch"
     name: "한국어"
-    proj: "Projects"
-    mail: "Email me"
+    proj: "프로젝트"
+    mail: "이메일"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
