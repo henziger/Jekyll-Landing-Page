@@ -3,6 +3,7 @@ ref: django
 img: dog.png
 img_alt:
   en: "A cozy dog"
+  es: "Un perro acogedor"
   fr: "Un chien confortable"
   kr: "A cozy dog"
   sv: "En gosig hund"
@@ -10,6 +11,10 @@ category: Projects
 title: Django
 description:
   en: |
+    I once managed to make a blog using the Django framework. You can
+    check it out [here](/django/). If you want to make a Django blog yourself,
+    check out [Django Girls](https://djangogirls.org/).
+  es: |
     I once managed to make a blog using the Django framework. You can
     check it out [here](/django/). If you want to make a Django blog yourself,
     check out [Django Girls](https://djangogirls.org/).

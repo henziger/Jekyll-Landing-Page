@@ -3,6 +3,7 @@ ref: knekt
 img: ride.jpg
 img_alt:
   en: "Motorbiker zooming down the road"
+  es: "Motociclista en la carretera"
   fr: "Motocycliste sur la route"
   kr: "Motorbiker zooming down the road"
   sv: "Motorcyklist glider ner för gatan"
@@ -10,6 +11,12 @@ category: Projects
 title: Knekt
 description:
   en: |
+    Knekt was developed by a group of students, me included, at Linköping University as
+    our Bachelor's project during the spring of 2016. Knekt is an interactive web application
+    intended to be used as an aid for teaching historical encryption methods and their weaknesses.
+    If you wish to do some crypto cracking, feel free to try out [Knekt](/knekt/). The project's
+    report can be found [here](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-130788).
+  es: |
     Knekt was developed by a group of students, me included, at Linköping University as
     our Bachelor's project during the spring of 2016. Knekt is an interactive web application
     intended to be used as an aid for teaching historical encryption methods and their weaknesses.

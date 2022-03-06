@@ -3,12 +3,15 @@ ref: math-quiz
 img: math.jpg
 img_alt:
   en: "Math studies by the laptop"
+  es: "Estudios de matemáticas por la computadora portátil"
   fr: "Études mathématiques par ordinateur portable"
   kr: "Math studies by the laptop"
   sv: "Matematik-studier vid laptopen"
 title: math-quiz
 description:
   en: |
+    During the christmas holidays 2016/2017 I created a React-based [math quiz](/math-quiz/) with the purpose of learning about React and JavaScript and maybe also refresh my math skills. The source code is available [here](https://github.com/henziger/math-quiz).
+  es: |
     During the christmas holidays 2016/2017 I created a React-based [math quiz](/math-quiz/) with the purpose of learning about React and JavaScript and maybe also refresh my math skills. The source code is available [here](https://github.com/henziger/math-quiz).
   fr: |
     Au cours des vacances de Noël 2016/2017, j'ai créé un [quiz de mathématiques](/math-quiz/)     dans le but d'apprendre React et JavaScript et peut-être aussi de rafraîchir mes compétences en mathématiques. Le code source est disponible [ici](https://github.com/henziger/math-quiz).

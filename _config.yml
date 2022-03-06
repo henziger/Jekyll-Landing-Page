@@ -6,7 +6,7 @@ url: https://henziger.se
 title: Eric Henziger
 email: hemtillhenziger@gmail.com
 author: Eric Henziger
-copyright: 'Copyright &copy; 2021 Eric Henziger. All Rights Reserved.'
+copyright: 'Copyright &copy; 2022 Eric Henziger. All Rights Reserved.'
 
 # ----------------------- #
 # Translations & Language #
@@ -19,7 +19,6 @@ langs:
     flags:
       - img: "sv.png"
         name: "Svenska flaggan"
-    home: "Hem"
     index: ""
     keep_in_touch: "Kontakta mig"
     name: "Svenska"
@@ -34,12 +33,23 @@ langs:
         name: "Union Jack"
       - img: "en-us.png"
         name: "Stars and Stripes"
-    home: "Home"
     index: "en.html"
     keep_in_touch: "Keep in touch"
     name: "English"
     proj: "Projects"
     mail: "Email me"
+  es:
+    about: "Acerca de henziger.se"
+    contact: "Contacto"
+    description: "Página de inicio de Eric Henziger."
+    flags:
+      - img: "es.png"
+        name: "Rojigualda"
+    index: "es.html"
+    keep_in_touch: "Mantenerse en contacto"
+    name: "Español"
+    proj: "Proyectos"
+    mail: "Email"
   fr:
     about: "À propos"
     contact: "Contact"
@@ -47,7 +57,6 @@ langs:
     flags:
       - img: "fr.png"
         name: "Drapeau Tricolore"
-    home: "Accueil"
     index: "fr.html"
     keep_in_touch: "Reste en contact avec moi"
     name: "Français"
@@ -60,7 +69,6 @@ langs:
     flags:
       - img: "kr.png"
         name: "Taegukgi"
-    home: "Home"
     index: "kr.html"
     keep_in_touch: "Keep in touch"
     name: "한국어"
@@ -98,6 +106,7 @@ social:
     descr:
       sv: Blogg
       en: Blog
+      es: Blog
       fr: Blog
       kr: 블로그
   - title: facebook

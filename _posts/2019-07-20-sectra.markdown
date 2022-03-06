@@ -3,12 +3,17 @@ ref: sectra
 img: sectra.jpg
 img_alt:
   en: "Sectra headquarters in Linköping"
+  es: "Sede de Sectra en Linköping"
   fr: "Le siège de Sectra à Linköping"
   kr: "Sectra headquarters in Linköping"
   sv: "Sectras huvudkontor i Linköping"
 title: Sectra
 description:
   en: |
+    I'm currently working for Sectra as a Software Engineer.
+    Sectra delivers IT systems for managing medical images and patient information in
+    healthcare organizations. For more information about Sectra, visit their [home page](https://sectra.com/).
+  es: |
     I'm currently working for Sectra as a Software Engineer.
     Sectra delivers IT systems for managing medical images and patient information in
     healthcare organizations. For more information about Sectra, visit their [home page](https://sectra.com/).

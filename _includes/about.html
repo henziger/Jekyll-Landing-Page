@@ -20,6 +20,17 @@
             <p>
                 <img class="emoji" src="img/glasses.png" alt="Sunglasses emoji">
                 Emoji art supplied by {{ joypixels }}JoyPixels</a>.</p>
+            {% elsif page.lang == "es" %}
+            <h2>About This Site</h2>
+            <p>{{site.langs["es"].description}}</p>
+            <p>This site was built using {{ bootstrap_theme }}Landing-Page.</a></p>
+            <p>The Jekyll version is brought to you by {{ shane_weng }}Shane Weng</a>.</p>
+            <p>This theme features stock photos by {{ death_to_stock }}Death to the Stock Photo</a>.</p>
+            <p>This template features the 'Lato' font, part of the {{ g_fonts }}Google Web Font library</a>,
+                as well as {{ fa }}icons from Font Awesome</a>.</p>
+            <p>
+                <img class="emoji" src="img/glasses.png" alt="Sunglasses emoji">
+                Emoji art supplied by {{ joypixels }}JoyPixels</a>.</p>
             {% elsif page.lang == "sv" %}
             <h2>Om henziger.se</h2>
             <p>{{site.langs["sv"].description}}</p>
