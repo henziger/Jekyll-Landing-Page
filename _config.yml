@@ -63,14 +63,14 @@ langs:
     proj: "Projets"
     mail: "Email"
   kr:
-    about: "About"
-    contact: "Contact"
+    about: "henziger.se 소개"
+    contact: "연락처"
     description: "Eric Henziger's landing page."
     flags:
       - img: "kr.png"
         name: "Taegukgi"
     index: "kr.html"
-    keep_in_touch: "Keep in touch"
+    keep_in_touch: "연락 하세요"
     name: "한국어"
     proj: "프로젝트"
     mail: "이메일"
