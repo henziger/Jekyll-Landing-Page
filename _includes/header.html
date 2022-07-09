@@ -1,26 +1,26 @@
 <!-- Navigation -->
-<nav id="navbar" class="navbar navbar-expand-md fixed-top navbar-light bg-light" role="navigation">
+<nav id="navbar" class="navbar navbar-expand-md fixed-top bg-light">
     <div class="container">
-        <a class="navbar-brand page-scroll" href="#home">{{ site.langs[page.lang].description }}</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        <a class="navbar-brand" href="#">{{ site.langs[page.lang].description }}</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#projects">{{ site.langs[page.lang].proj }}</a>
+                    <a class="nav-link" href="#projects">{{ site.langs[page.lang].proj }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#contact">{{ site.langs[page.lang].contact }}</a>
+                    <a class="nav-link" href="#contact">{{site.langs[page.lang].contact}}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#about">{{ site.langs[page.lang].about }}</a>
+                    <a class="nav-link" href="#about">{{site.langs[page.lang].about}}</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="lang-dropdown" role="button" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" id="lang-dropdown" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
                         {{ site.langs[page.lang].name }}
                         <span class="caret"></span>
                     </a>
