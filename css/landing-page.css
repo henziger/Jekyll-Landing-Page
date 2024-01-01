@@ -215,3 +215,7 @@ p.copyright {
 .smaller {
     font-size: 0.775em; /* 0.1 em smaller than Bootstrap's small */
 }
+
+.digital-ocean-referral {
+    margin: 1rem;
+}
