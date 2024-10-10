@@ -5,6 +5,13 @@
     <meta name="description" content="{{ site.langs[page.lang].description }}">
     <meta name="author" content="{{ site.author }}">
 
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="{{ site.langs[page.lang].description }}" />
+    <meta property="og:description" content="Allt du kan tänkas vilja veta om Eric finner du här" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content="{{ site.url }}/img/tabby.jpg" />
+    <meta property="og:type" content="website" />
+
     <!-- Remove no-js class if we run JavaScript -->
     <script>
         document.documentElement.classList.remove("no-js");
